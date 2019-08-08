@@ -1,0 +1,10 @@
+E:\WANGU\INTRODUCTION\Number4\bin\Debug\Number4.exe.config
+E:\WANGU\INTRODUCTION\Number4\bin\Debug\Number4.exe
+E:\WANGU\INTRODUCTION\Number4\bin\Debug\Number4.pdb
+E:\WANGU\INTRODUCTION\Number4\obj\Debug\Number4.csprojAssemblyReference.cache
+E:\WANGU\INTRODUCTION\Number4\obj\Debug\Number4.Form1.resources
+E:\WANGU\INTRODUCTION\Number4\obj\Debug\Number4.Properties.Resources.resources
+E:\WANGU\INTRODUCTION\Number4\obj\Debug\Number4.csproj.GenerateResource.cache
+E:\WANGU\INTRODUCTION\Number4\obj\Debug\Number4.csproj.CoreCompileInputs.cache
+E:\WANGU\INTRODUCTION\Number4\obj\Debug\Number4.exe
+E:\WANGU\INTRODUCTION\Number4\obj\Debug\Number4.pdb
